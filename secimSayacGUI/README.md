@@ -3,7 +3,7 @@
 
 Bu proje, bir seçim pusulası uygulamasını temsil etmektedir. Kullanıcılar, "Kemal Kılıçdaroğlu" ve "Recep Tayyip Erdoğan" adaylarına oy verebilir ve oy sayılarını takip edebilirler. Aynı zamanda, kullanıcılar oy sayılarını sıfırlayabilir ve verilen oyları geri alabilirler.
 
-**Not: Bu uygulamanın herhangi bir siyasi partiyi desteklemediği belirtilmiştir. Tarafsız bir şekilde geliştirilmiş olup, herhangi bir siyasi görüşü veya ajandayı yansıtmamaktadır.**
+**Not: Bu uygulamanın herhangi bir siyasi partiyi desteklememektedir. Tarafsız bir şekilde geliştirilmiş olup, herhangi bir siyasi görüşü veya ajandayı yansıtmamaktadır.**
 
 
 # Kullanım
